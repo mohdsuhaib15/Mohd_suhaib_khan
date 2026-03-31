@@ -10,19 +10,19 @@ I am a first-year Computer Science student with a strong interest in learning pr
 
 🎯 Goals
 
-Improve my programming skills
+-Improve my programming skills
 
-Work on real-world projects
+-Work on real-world projects
 
-Build a strong technical foundation
+-Build a strong technical foundation
 
-Prepare for internships and placements
+-Prepare for internships and placements
 
 📈 Current Focus
 
-Learning programming basics
+-Learning programming basics
 
-Exploring GitHub and version control
+-Exploring GitHub and version control
 
-Improving logical thinking
+-Improving logical thinking
 
